@@ -1,0 +1,41 @@
+/* style.css */
+body{
+  background: #FFB2F7; 
+  font-family:'Abril Fatface';
+  font-size: 20px
+}
+
+h1 {
+  color: rgb(159,248,255);
+  text-align: center; 
+}
+
+h2 {
+  font-family: Nerko One;
+  color: rgb(245,245,245);
+  font-weight: normal;
+  font-size: 80%;
+  text-shadow: text-shadow 4px 4px rgb(0,0,0);
+}
+
+p{ 
+  background: rgb(205,245,245)
+  text-align: center;
+  color: 
+  font-family: Nerko One;
+  font-size: 60%
+ }
+
+li{
+  font-family: Arial
+  text-decoration : overline;
+}
+
+a {
+  color: rgb(0,32,212);
+}
+a:hover {
+  text-decoration: overline;
+  color: gold;
+}
+
